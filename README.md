@@ -39,7 +39,7 @@ extension, or another browsers equivalent.
 ## Common Errors
 
 - GIFs over 100 kb will result in a `too many frames` error - use
-  [Ezgif.com](https://ezgif.com/resize) to scale down images over 100 kb
+  [Ezgif.com](https://ezgif.com/optimize) to scale down images over 100 kb
 - Nonconformant file names will result in a `error_bad_name_i18n` error
 
 ## Credits
@@ -48,7 +48,7 @@ All emojis were sourced from the following repositories/websites:
 
 - Blob folder: https://blobs.gg
 - Gopha folder: https://github.com/tenntenn/gopher-stickers
-- Llama folder: https://www.deviantart.com/jerikuto/
+- Llama folder:  https://www.weibo.com/huiro, https://www.deviantart.com/jerikuto
 - Meow folder: https://blobs.gg
 - Parrots folder: https://github.com/jmhobbs/cultofthepartyparrot.com
 - Party folder: https://github.com/aendrew/party-everything
